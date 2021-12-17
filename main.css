@@ -1,0 +1,49 @@
+#assign_header {
+	background-color: black;
+	color: white;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	margin-bottom: 18px;
+	font-weight: bold;
+}
+
+hr {
+	border: black;
+	border-top-width: 10px;
+}
+
+.col-md {
+	font-family: PT Serif, serif;
+}
+
+.caption {
+	font-family: PT Serif, serif;
+	color: gray;
+}
+
+.col-md-8 {
+	font-family: PT Serif, serif;
+	font-size: 15px;
+}
+
+.col-md-4 {
+	font-family: PT Serif, serif;
+	color: gray;
+}
+
+.col-md-6 {
+	font-family: PT Serif, serif;
+	font-size: 18px;
+}
+
+.col-md-6 {
+	font-family: PT Serif, serif;
+}
+
+.col-md-4 img {
+	max-height: 400px;
+}
+
+.col-md-5 {
+	font-family: PT Serif, serif;
+}
